@@ -3,7 +3,7 @@
     "id": "979810781328",
     "restype": "watchface",
     "name": "跃刻",
-    "description": "注：购买\n这款极简大字三色版表盘，专为红米 Watch6 系列设计。\n采用超大字号时间布局，时间显示清晰突出，搭配顶部日期、电量、蓝牙状态，信息层级简洁直观。\n提供深色、粉色、蓝绿渐变三种主题风格，可根据穿搭、心情与场景自由切换。底部支持心率、步数、睡眠等常用健康数据展示，部分组件还可扩展快捷应用入口。整体圆润干净、无冗余装饰，兼顾颜值与实用性，适合日常通勤、运动健身等多种场景。",
+    "description": "这款极简大字三色版表盘，专为红米 Watch6 系列设计。\n采用超大字号时间布局，时间显示清晰突出，搭配顶部日期、电量、蓝牙状态，信息层级简洁直观。\n提供深色、粉色、蓝绿渐变三种主题风格，可根据穿搭、心情与场景自由切换。底部支持心率、步数、睡眠等常用健康数据展示，部分组件还可扩展快捷应用入口。整体圆润干净、无冗余装饰，兼顾颜值与实用性，适合日常通勤、运动健身等多种场景。",
     "preview": [
       "media/表盘截图_样式1_配色3.png",
       "media/表盘截图_样式1_配色2.png",
@@ -33,9 +33,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979810781328/main/wallpaper/wallpaper.json"
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
